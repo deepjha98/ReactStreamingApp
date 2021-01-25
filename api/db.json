@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Pinyata party !!!",
+      "description": "Hey ! There  join us in new year pinyata party",
+      "userId": "105913882168117028706",
+      "id": 1
+    },
+    {
+      "title": "Plantae",
+      "description": "I have created a plantae app",
+      "userId": "105913882168117028706",
+      "id": 2
+    },
+    {
+      "title": "Coolztricks",
+      "description": "The website i am gonna copy ",
+      "userId": "105913882168117028706",
+      "id": 3
+    },
+    {
+      "title": "IBM ",
+      "description": "Quantum Computing",
+      "userId": "105913882168117028706",
+      "id": 4
+    }
+  ]
+}
